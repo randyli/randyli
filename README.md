@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @randyli
-- 👀 I’m interested in llvm,compiler
+- 👀 I’m interested in llvm,compiler,rust
 - 🌱 I’m currently learning llvm optimization
-- 💞️ I’m looking to collaborate on learning llvm
+- 💞️ I’m looking to collaborate on learning llvm and rust
 - 📫 How to reach me: mail
 
 <!---
